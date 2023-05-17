@@ -1,1 +1,2 @@
-
+# Decription
+The project consists of designing a digital synthesizer that generates and modifies sounds stored in a MicroSD card. The synthesizer is equipped with speakers to produce music, a 4x4 keyboard with 16 keys to play notes, and various sound effects. The screen displays a menu for navigating through the different settings of the synthesizer and modifying sounds. The main characteristics of this digital synthesizer are its versatility, user-friendliness, and the quality of its sounds, which can be customized according to the user's preferences. This project is suitable for amateur or professional musicians who are looking to explore new sounds and create their own music.
